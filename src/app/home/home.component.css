@@ -1,0 +1,15 @@
+@media screen and (max-width: 667px){
+    .blog-bg{
+        z-index: index -1;    }
+
+}
+
+
+service-overlay {
+    
+    box-shadow: 3px 3px 6px 1px rgba(199, 199, 199, 0.71);
+
+    transform: scale(1);
+ 
+    transition: .5s ease-in-out;
+}

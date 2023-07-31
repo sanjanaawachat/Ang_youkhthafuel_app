@@ -1,0 +1,11 @@
+
+@media screen and (max-width: 667px){
+.header-top{
+  display: none;
+}
+.header-area{
+  position: fixed;
+  width:375.172px ;
+  background-color: white;
+}
+}

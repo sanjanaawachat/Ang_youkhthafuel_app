@@ -1,0 +1,7 @@
+@media screen and (max-width: 667px){
+    section{
+        margin-bottom: 90px;
+        z-index: -1;
+        position: relative;
+    }
+    }
